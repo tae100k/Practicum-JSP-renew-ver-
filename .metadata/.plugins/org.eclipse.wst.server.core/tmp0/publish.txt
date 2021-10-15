@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Fri Oct 15 13:53:09 KST 2021
-org.eclipse.jst.jee.server\:lec09Pjt02=C\:\\Users\\user01\\JSP\\download\\apache-tomcat-8.5.72\\wtpwebapps\\lec09Pjt02
